@@ -1,0 +1,16 @@
+03-09-2022 21:21:13.137 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-09-2022 21:21:13.142 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-09-2022 21:21:13.143 [Gauge] [DEBUG] Adding specs from /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs/example.spec
+03-09-2022 21:21:13.143 [Gauge] [INFO] Initializing steps cache with 1 steps
+03-09-2022 21:21:13.143 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52269
+03-09-2022 21:21:13.145 [Gauge] [DEBUG] Watching directory: /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs
+03-09-2022 21:21:13.145 [Gauge] [DEBUG] Found 1 files
+03-09-2022 21:21:18.404 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:{language:"java"}
+03-09-2022 21:21:18.409 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:{path:"/Users/hariombhatia/.gauge/plugins/java/0.9.1/libs"}
+03-09-2022 21:27:16.697 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-09-2022 21:27:16.699 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-09-2022 21:27:16.699 [Gauge] [DEBUG] Adding specs from /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs/example.spec
+03-09-2022 21:27:16.699 [Gauge] [INFO] Initializing steps cache with 1 steps
+03-09-2022 21:27:16.699 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52412
+03-09-2022 21:27:16.700 [Gauge] [DEBUG] Watching directory: /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs
+03-09-2022 21:27:16.700 [Gauge] [DEBUG] Found 1 files
