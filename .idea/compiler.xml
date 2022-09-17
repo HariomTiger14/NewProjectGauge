@@ -9,8 +9,5 @@
         <module name="gauge-test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="gauge-test" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>

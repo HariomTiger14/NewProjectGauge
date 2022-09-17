@@ -14,3 +14,24 @@
 03-09-2022 21:27:16.699 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52412
 03-09-2022 21:27:16.700 [Gauge] [DEBUG] Watching directory: /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs
 03-09-2022 21:27:16.700 [Gauge] [DEBUG] Found 1 files
+03-09-2022 21:45:52.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Gauge homepage"}
+03-09-2022 21:45:52.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+03-09-2022 21:45:53.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+03-09-2022 21:45:53.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+03-09-2022 21:45:53.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure installation instructions are available"}
+03-09-2022 21:45:53.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+17-09-2022 12:48:44.254 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-09-2022 12:48:44.261 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-09-2022 12:48:44.261 [Gauge] [DEBUG] Adding specs from /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs/example.spec
+17-09-2022 12:48:44.261 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-09-2022 12:48:44.262 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49586
+17-09-2022 12:48:44.263 [Gauge] [DEBUG] Watching directory: /Users/hariombhatia/IdeaProjects/NewProjectGaugeSelenium/specs
+17-09-2022 12:48:44.264 [Gauge] [DEBUG] Found 1 files
+17-09-2022 12:48:51.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+17-09-2022 12:48:51.267 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+17-09-2022 12:48:51.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+17-09-2022 12:48:51.270 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+17-09-2022 12:49:02.691 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Gauge homepage"}
+17-09-2022 12:49:02.691 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+17-09-2022 12:49:04.086 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure installation instructions are available"}
+17-09-2022 12:49:04.086 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
